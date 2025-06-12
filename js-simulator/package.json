@@ -1,0 +1,12 @@
+{
+  "name": "simulador-js",
+  "version": "1.0.0",
+  "description": "Un proyecto simple de simulador en JavaScript que demuestra conceptos básicos de programación.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "start src/index.html"
+  },
+  "keywords": ["simulador", "javascript", "práctica", "básico"],
+  "author": "",
+  "license": "ISC"
+}
